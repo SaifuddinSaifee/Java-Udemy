@@ -1,12 +1,12 @@
 package com.company;
 
 public class Vehicle {
-    private int name;
-    private int size;
+    private String name;
+    private String size;
     private int currentVelocity;
     private int currentDirection;
 
-    public Vehicle(int name, int size) {
+    public Vehicle(String name, String size) {
         this.name = name;
         this.size = size;
 
@@ -22,14 +22,14 @@ public class Vehicle {
     public void move (int velocity, int direction){
         this.currentVelocity = velocity;
         this.currentDirection = direction;
-        System.out.println("Vehicle.move(): Moving at speed: '" + this.currentVelocity + " km/hr', towards "+ currentDirection + "' degrees");
+        System.out.println("Vehicle.move(): Moving at speed: '" + this.currentVelocity + " km/hr', towards '"+ currentDirection + "' degrees");
     }
 
-    public int getName() {
+    public String getName() {
         return name;
     }
 
-    public int getSize() {
+    public String getSize() {
         return size;
     }
 
@@ -39,5 +39,9 @@ public class Vehicle {
 
     public int getCurrentDirection() {
         return currentDirection;
+    }
+
+    public void stop(){
+        this.currentVelocity = 0;
     }
 }

@@ -3,15 +3,28 @@ package com.company;
 public class Car extends Vehicle{
 
     private int wheels;
-    private int velocity;
-    private int company;
-    private int roadType;
+    private int doors;
+    private int gears;
+    private boolean isManual;
+    private int currentGear;
 
-    public Car(int name, int size, int wheels, int velocity, int company, int roadType) {
+    public Car(String name, String size, int wheels, int doors, int gears, boolean isManual, int currentGear) {
         super(name, size);
         this.wheels = wheels;
-        this.velocity = velocity;
-        this.company = company;
-        this.roadType = roadType;
+        this.doors = doors;
+        this.gears = gears;
+        this.isManual = isManual;
+        this.currentGear = 1;
     }
+
+    public void changeGear(int currentGear) {
+        this.currentGear = currentGear;
+        System.out.println("Car.changeGear() called : Changed to " + this.currentGear + " gear.");
+    }
+
+    public void changeVelocity(int speed, int direction){
+        System.out.println("Car.changeVelocity() : Velocity " + speed + " in direction " + direction);
+        move(speed, direction);
+    }
+
 }

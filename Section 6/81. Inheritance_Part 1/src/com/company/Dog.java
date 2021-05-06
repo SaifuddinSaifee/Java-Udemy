@@ -2,7 +2,7 @@ package com.company;
 
 import java.sql.SQLOutput;
 
-public class Dog extends Animal{
+public class Dog extends Animal {
 
     private int eyes;
     private int legs;
@@ -19,7 +19,7 @@ public class Dog extends Animal{
         this.coat = coat;
     }
 
-    private void chew(){
+    private void chew() {
         System.out.println("Dog.chew() This Dog Chews");
 
     }
@@ -31,28 +31,27 @@ public class Dog extends Animal{
         super.eat();
     }
 
-    public void walk(){
+    public void walk() {
         System.out.println("Dog.walk() called");
         move(5);
     }
 
-    public void run(){
+    public void run() {
         System.out.println("Dog.run() called");
         move(10);
     }
 
-    private void moveLegs(int speed){
+    private void moveLegs(int speed) {
         System.out.println("Dog.moveLegs() called");
     }
 
     @Override
-    public void move(int speed){
-        System.out.println("Dogs.move() called with the speed : " +speed);
+    public void move(int speed) {
+        System.out.println("Dogs.move() called with the speed : " + speed);
         moveLegs(speed);
         super.move(speed);
 
     }
-
 
 
 }

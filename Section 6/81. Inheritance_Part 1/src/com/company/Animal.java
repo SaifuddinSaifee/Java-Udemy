@@ -15,13 +15,13 @@ public class Animal {
         this.weight = weight;
     }
 
-    public void eat(){
+    public void eat() {
         System.out.println("Animal.eat() 'Animal Is Eating' called");
     }
 
 
-    public void move(int speed){
-        System.out.println("Animal.move() Animal is moving at " +speed);
+    public void move(int speed) {
+        System.out.println("Animal.move() Animal is moving at " + speed);
     }
 
     public String getName() {

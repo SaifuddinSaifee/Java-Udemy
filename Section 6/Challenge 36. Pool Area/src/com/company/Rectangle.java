@@ -11,9 +11,9 @@ public class Rectangle {
             this.width = width;
         }
         if (length <= 0) {
-            this.width = 0;
+            this.length = 0;
         } else {
-            this.width = width;
+            this.length = length;
         }
 
     }
@@ -27,7 +27,7 @@ public class Rectangle {
     }
 
     public double getArea() {
-        return this.width * this.length;
+        return getWidth() * getLength();
     }
 
 }

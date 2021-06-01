@@ -3,20 +3,20 @@ package com.company;
 public class EnhancedPlayer {
 
     private String name;
-    private int health = 100;
+    private int HP = 100;
     private String weapon;
 
-    public EnhancedPlayer(String name, int health, String weapon) {
+    public EnhancedPlayer(String name, int HP, String weapon) {
         this.name = name;
-        if (health > 0 && health <= 100) {
-            this.health = health;
+        if (HP > 0 && HP <= 100) {
+            this.HP = HP;
         }
         this.weapon = weapon;
     }
 
     public void looseHealth(int damage){
-        this.health = this.health - damage;
-        if(this.health <=0){
+        this.HP = this.HP - damage;
+        if(this.HP <=0){
             System.out.println("The Player Knocked out");
         }
     }
@@ -26,7 +26,7 @@ public class EnhancedPlayer {
     }
 
     public int getHealth() {
-        return health;
+        return HP;
     }
 
     public String getWeapon() {

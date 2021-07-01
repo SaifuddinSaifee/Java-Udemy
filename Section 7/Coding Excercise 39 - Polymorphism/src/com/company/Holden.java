@@ -2,8 +2,8 @@ package com.company;
 
 public class Holden extends Car{
 
-    public Holden(int cylinder, String name) {
-        super(cylinder, name);
+    public Holden(int cylinders, String name) {
+        super(cylinders, name);
     }
 
     @Override

@@ -2,15 +2,28 @@ package com.company;
 
 public class Car {
     private boolean engine;
-    private int cylinder;
+    private int cylinders;
     private String name;
     private int wheels;
 
-    public Car(int cylinder, String name) {
-        this.cylinder = cylinder;
+    public Car(int cylinders, String name) {
+        this.cylinders = cylinders;
         this.name = name;
         this.engine = true;
         this.wheels = 4;
+    }
+
+
+    public int getCylinders() {
+        return cylinders;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String brake() {
+        return "Car -> brake()";
     }
 
     public String startEngine() {
@@ -20,9 +33,5 @@ public class Car {
 
     public String accelerate() {
         return "Car -> accelerate()";
-    }
-
-    public String brake() {
-        return "Car -> brake()";
     }
 }

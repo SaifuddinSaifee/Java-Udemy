@@ -23,6 +23,6 @@ public class Hamburger {
 
     public void addHamburgerAddition1(String name, double price){
         this.addition1Name = name;
-        this.addition1Price
+        this.addition1Price = price;
     }
 }

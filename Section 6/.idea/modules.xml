@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/77. Classes/77. Classes.iml" filepath="$PROJECT_DIR$/77. Classes/77. Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/79. Constructor/79. Constructor.iml" filepath="$PROJECT_DIR$/79. Constructor/79. Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/79. Constructor - Challenge/79. Constructor - Challenge.iml" filepath="$PROJECT_DIR$/79. Constructor - Challenge/79. Constructor - Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/81. Inheritance_Part 1/81. Inheritance_Part 1.iml" filepath="$PROJECT_DIR$/81. Inheritance_Part 1/81. Inheritance_Part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/88. Inheritance Challenge/88. Inheritance Challenge.iml" filepath="$PROJECT_DIR$/88. Inheritance Challenge/88. Inheritance Challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 29.  Sum Calculator/Challenge 29.  Sum Calculator.iml" filepath="$PROJECT_DIR$/Challenge 29.  Sum Calculator/Challenge 29.  Sum Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 30. Person/Challenge 30. Person.iml" filepath="$PROJECT_DIR$/Challenge 30. Person/Challenge 30. Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 31. Wall Area/Challenge 31. Wall Area.iml" filepath="$PROJECT_DIR$/Challenge 31. Wall Area/Challenge 31. Wall Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 32. Point/Challenge 32. Point.iml" filepath="$PROJECT_DIR$/Challenge 32. Point/Challenge 32. Point.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 34. Complex Numbers/Challenge 34. Complex Numbers.iml" filepath="$PROJECT_DIR$/Challenge 34. Complex Numbers/Challenge 34. Complex Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 35. Cylinder/Challenge 35. Cylinder.iml" filepath="$PROJECT_DIR$/Challenge 35. Cylinder/Challenge 35. Cylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Challenge 36. Pool Area/Challenge 36. Pool Area.iml" filepath="$PROJECT_DIR$/Challenge 36. Pool Area/Challenge 36. Pool Area.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section 6.iml" filepath="$PROJECT_DIR$/.idea/Section 6.iml" />
+    </modules>
+  </component>
+</project>

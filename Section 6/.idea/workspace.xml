@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d1a7604-a8ab-4181-9da1-41506c631919" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/77. Classes/77. Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/79. Constructor - Challenge/79. Constructor - Challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/79. Constructor/79. Constructor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/81. Inheritance_Part 1/81. Inheritance_Part 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/88. Inheritance Challenge/88. Inheritance Challenge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 29.  Sum Calculator/Challenge 29.  Sum Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 30. Person/Challenge 30. Person.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 31. Wall Area/Challenge 31. Wall Area.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 32. Point/Challenge 32. Point.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 34. Complex Numbers/Challenge 34. Complex Numbers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 35. Cylinder/Challenge 35. Cylinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Challenge 36. Pool Area/Challenge 36. Pool Area.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1w2ZfKZzS3MAtmaLRENOB9nuV5i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d1a7604-a8ab-4181-9da1-41506c631919" name="Default Changelist" comment="" />
+      <created>1627658746031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627658746031</updated>
+    </task>
+    <servers />
+  </component>
+</project>
